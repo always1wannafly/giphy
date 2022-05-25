@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+#input{
+    background-color: bisque;
+
+}
+.btn{
+    font-family: 'Fredoka', sans-serif;
+    background-color: bisque;
+    border-radius: 15%;
+    padding: 5px 15px 5px 15px;
+    font-size: 20px;
+    color: darkslateblue;
+}
